@@ -1,80 +1,232 @@
-<div align="center">
-
-# Sahil Sharma
-
-**Computer Science Student — Pivoting into AI/ML & Cloud (AWS)**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Learning+in+public%2C+shipping+in+private;Currently%3A+Machine+Learning+%2B+AWS;Building+one+real+project+at+a+time" />
-
-</div>
+# <div align="center">⚡ SAHIL SHARMA ⚡</div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=D4AF37)](https://github.com/sahil0078sharma-oss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/sahil-sharma-b8032830b/)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:sahil0078sharma@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Aspiring+MLOps+Engineer;Building+Production-Grade+AI+Systems;Cloud-Native+AI+Infrastructure+Learner;Exploring+LLMOps+%7C+MLOps+%7C+AI+Deployment;Future+AI+Systems+Engineer" />
 
 </div>
 
 ---
 
-### About
+<div align="center">
 
-Final-year B.Tech CSE student. I started in web development, shipped a few real projects there, and I'm now deliberately rebuilding toward AI/ML and cloud infrastructure — not by collecting certificates, but by working through the fundamentals and building things that actually run.
+<img src="https://img.shields.io/badge/Focus-MLOps-00D9FF?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AI-Production%20Systems-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Cloud%20Native%20AI-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 
-I'd rather show three months of consistent, real progress than a resume of tools I've only read about.
+</div>
 
 ---
 
-### Right Now
-
-```
-Currently building   → House Price Prediction (ML fundamentals: regression, feature
-                        engineering, model evaluation)
-Currently learning   → Python (revising core), applied ML theory, AWS core services
-Currently NOT doing  → Kubernetes, MLOps pipelines, RAG systems — not yet, and I'm
-                        not going to claim them until they're true
+```bash
+> initializing_ai_infrastructure...
+> deploying_future_ready_systems...
+> learning_cloud_native_ml_workflows...
+> status :: evolving
 ```
 
----
+# ⚙️ SYSTEM PROFILE
 
-### Skills
-
-**Solid — used in shipped projects**
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
-
-**Learning now — hands-on, in progress**
-<img src="https://skillicons.dev/icons?i=python,aws" />
-
----
-
-### Shipped Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Placement Registration Portal** | Full registration & workflow system for student placements | AWS, JavaScript |
-| **CLOVAMA** | E-commerce site — product catalog, cart, checkout flow | JavaScript |
-| **TaskZen** | Task management app with core CRUD + user flows | JavaScript |
-
-*(Full code and details in pinned repos below.)*
+```yaml
+Name: Sahil Sharma
+Role: Aspiring MLOps Engineer
+Domain: AI Infrastructure & Cloud Native ML
+Focus: Production AI Systems
+Education: B.Tech CSE
+Current Mission: Building scalable AI engineering skills
+Mindset: Learn → Build → Deploy → Scale
+```
 
 ---
 
-### GitHub Activity
+# 🌌 AI ENGINEERING FOCUS
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sahil0078sharma-oss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0078sharma-oss&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&text_color=C9D1D9" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil0078sharma-oss&bg_color=0D1117&color=D4AF37&line=D4AF37&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+| Domain            | Current Direction            |
+| ----------------- | ---------------------------- |
+| ☁️ Cloud          | AWS Ecosystem                |
+| 🤖 AI Systems     | Production-Oriented AI       |
+| ⚡ MLOps           | Deployment & Monitoring      |
+| 🧠 LLMOps         | Exploring RAG & AI Workflows |
+| 🐳 Infrastructure | Docker & Containerization    |
+| 🔄 Automation     | CI/CD & Workflow Thinking    |
+| 📊 Data           | ML Data Pipelines            |
+
 </div>
 
 ---
 
+# 🧠 CURRENT TECH STACK
+
 <div align="center">
 
-*Not claiming the destination. Just showing the work.*
+## Languages & Foundations
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+
+## Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+
+## Data & AI Ecosystem
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
+
+---
+
+# 🚀 LEARNING & EXPLORING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MLOps-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMOps-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/MLflow-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Systems-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Databases-111111?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🛰️ PRODUCTION AI ROADMAP
+
+```text
+DATA → TRAINING → API → CONTAINERIZATION → CLOUD → MONITORING
+
+CSV / DATABASE
+       ↓
+MODEL TRAINING
+       ↓
+FASTAPI SERVICE
+       ↓
+DOCKER CONTAINER
+       ↓
+AWS DEPLOYMENT
+       ↓
+LOGGING & MONITORING
+```
+
+---
+
+# ⚡ CURRENT ENGINEERING OBJECTIVES
+
+* Building strong Python foundations for AI engineering
+* Understanding AWS cloud services & infrastructure
+* Learning deployment-first machine learning workflows
+* Exploring scalable AI system architecture
+* Understanding CI/CD for ML systems
+* Building production-oriented AI projects
+* Developing cloud-native engineering mindset
+
+---
+
+# 📡 AI INFRASTRUCTURE STATUS
+
+<div align="center">
+
+| System                 | Status         |
+| ---------------------- | -------------- |
+| Python Foundations     | ⚡ Initializing |
+| AWS Cloud Learning     | 🚀 Active      |
+| MLOps Fundamentals     | ⚡ In Progress  |
+| LLMOps Exploration     | 🌌 Starting    |
+| Production AI Thinking | 🧠 Growing     |
+| Deployment Engineering | 🔄 Learning    |
+
+</div>
+
+---
+
+# 🏗️ FEATURED PROJECT ZONE
+
+## 🤖 Production AI Projects
+
+```bash
+# upcoming_projects
+├── ml-api-deployment
+├── ai-monitoring-dashboard
+├── cloud-native-ml-pipeline
+├── rag-powered-ai-system
+└── scalable-inference-api
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil0078sharma-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0078sharma-oss&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil0078sharma-oss&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧬 AI SYSTEMS ECOSYSTEM
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Data Sources] --> B[ML Pipeline]
+    B --> C[Model Training]
+    C --> D[FastAPI Service]
+    D --> E[Docker Container]
+    E --> F[AWS Cloud]
+    F --> G[Monitoring & Logging]
+    G --> H[Scalable AI System]
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/sahil0078sharma-oss">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sahil-sharma-b8032830b/">
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sahil0078sharma@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+> building_production_grade_ai_systems...
+> evolving_every_day...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=120&section=footer" />
 
 </div>
